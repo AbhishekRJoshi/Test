@@ -1,0 +1,3 @@
+1) git clone : to sync up github files in your local machine
+2) git status : used to check the status 
+3) git add : to add the file to staging area 
