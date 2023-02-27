@@ -6,3 +6,6 @@
 6) git restore & git checkout : these commands are used to undo commited changes.
 7) lets delete this.
 8) this point only exists in new branch.
+
+This is present in new branch.
+
