@@ -3,3 +3,5 @@
 3) git add : to add the file to staging area 
 4) git commit : takes the file and commits it to local version control system
 5) git push : to push the file to cloud.
+6) git restore & git checkout : these commands are used to undo commited changes.
+7) lets delete this.
